@@ -6,7 +6,7 @@
   <!-- Animasi Teks Mengetik -->
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Android+Developer+(Kotlin);Building+Clean+%26+Modern+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Mobile+Developer;Building+Clean+%26+Modern+Apps" alt="Typing SVG" />
   </a>
 
   <br>
