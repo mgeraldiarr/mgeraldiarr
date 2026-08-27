@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3000&pause=900&color=2D9E6F&center=true&vCenter=true&width=650&lines=Muhammad+Geraldi+Arisyi;Fullstack+Developer;Mobile+Developer;Sedang+Mendalami+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3000&pause=900&color=2D9E6F&center=true&vCenter=true&width=650&lines=Muhammad+Geraldi+Arisyi;Fullstack+Developer;Mobile+Developer;Sedang+Mendalami+Software+Engineering" alt="Typing SVG" />
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ## 👋 Tentang Saya
 
-Saya mahasiswa <b>Universitas Esa Unggul</b> dengan minat mendalam di bidang <b>Software Engineering</b>, dan saat ini aktif berkarya sebagai <b>Fullstack & Mobile Developer</b>. Saya terbiasa menjembatani logika backend, antarmuka frontend, hingga pengembangan aplikasi Android dalam satu alur kerja yang utuh. Saya senang memecahkan masalah kompleks dan selalu berusaha menulis <i>clean code</i> yang rapi, terstruktur, dan siap dikembangkan lebih jauh.
+Saya mahasiswa <b>Universitas Esa Unggul</b> semester 4, dengan minat mendalam di bidang <b>Software Engineering</b>, dan saat ini aktif berkarya sebagai <b>Fullstack & Mobile Developer</b>. Saya terbiasa menjembatani logika backend, antarmuka frontend, hingga pengembangan aplikasi Android dalam satu alur kerja yang utuh. Saya senang memecahkan masalah kompleks dan selalu berusaha menulis <i>clean code</i> yang rapi, terstruktur, dan siap dikembangkan lebih jauh.
 
 <br>
 
@@ -38,7 +38,7 @@ Saya mahasiswa <b>Universitas Esa Unggul</b> dengan minat mendalam di bidang <b>
 <tr><td><b>Framework</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite" /></td></tr>
 <tr><td><b>Backend & Runtime</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,php" /></td></tr>
 <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" /></td></tr>
-<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /> <sub>MVVM, Room, Hilt, Retrofit</sub></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /></td></tr>
 <tr><td><b>3D & Modeling</b></td><td><img src="https://skillicons.dev/icons?i=blender" /> <img src="https://img.shields.io/badge/-Sketchfab-2D9E6F?style=flat-square&logo=sketchfab&logoColor=white" /></td></tr>
 <tr><td><b>IDE & Editor</b></td><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio" /> <img src="https://img.shields.io/badge/-Antigravity-2D9E6F?style=flat-square&logoColor=white" /></td></tr>
 <tr><td><b>Shell</b></td><td><img src="https://skillicons.dev/icons?i=bash,powershell" /></td></tr>
