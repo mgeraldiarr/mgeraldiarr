@@ -4,7 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3000&pause=900&color=2D9E6F&center=true&vCenter=true&width=650&lines=GEGEH;Fullstack+Developer;Mobile+Developer;Sedang+Mendalami+Software+Engineering" alt="Typing SVG" />
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=mgeraldiarr&color=2D9E6F&style=flat-square&label=Profile+Views" alt="profile views"/>
+&nbsp;
 <img src="https://img.shields.io/github/followers/mgeraldiarr?label=Followers&style=flat-square&color=2D9E6F" alt="followers"/>
 
 </div>
