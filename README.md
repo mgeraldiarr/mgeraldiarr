@@ -32,21 +32,49 @@ Saya mahasiswa <b>Universitas Esa Unggul</b> dengan minat mendalam di bidang <b>
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Bahasa Pemrograman**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,py,kotlin" />
 
-**Backend**
+**Markup & Format Data**
 
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://img.shields.io/badge/-XML-2D9E6F?style=flat-square&logo=xml&logoColor=white" />
+<img src="https://img.shields.io/badge/-JSON-2D9E6F?style=flat-square&logo=json&logoColor=white" />
+
+**Framework & Library**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite" />
+
+**Backend & Runtime**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
 
 **Mobile** — Kotlin, Android Studio (MVVM, Room, Hilt, Retrofit)
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 
-**Tools & Lainnya**
+**3D & Modeling**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,py,blender" />
+<img src="https://skillicons.dev/icons?i=blender" />
+<img src="https://img.shields.io/badge/-Sketchfab-2D9E6F?style=flat-square&logo=sketchfab&logoColor=white" />
+
+**IDE & Editor**
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
+<img src="https://img.shields.io/badge/-Antigravity-2D9E6F?style=flat-square&logoColor=white" />
+
+**Shell**
+
+<img src="https://skillicons.dev/icons?i=bash,powershell" />
+
+**Tools & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 <br>
 
