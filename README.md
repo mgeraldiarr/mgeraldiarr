@@ -32,49 +32,18 @@ Saya mahasiswa <b>Universitas Esa Unggul</b> dengan minat mendalam di bidang <b>
 
 ## 🛠️ Tech Stack
 
-**Bahasa Pemrograman**
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,py,kotlin" />
-
-**Markup & Format Data**
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-<img src="https://img.shields.io/badge/-XML-2D9E6F?style=flat-square&logo=xml&logoColor=white" />
-<img src="https://img.shields.io/badge/-JSON-2D9E6F?style=flat-square&logo=json&logoColor=white" />
-
-**Framework & Library**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite" />
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,php" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
-
-**Mobile** — Kotlin, Android Studio (MVVM, Room, Hilt, Retrofit)
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-
-**3D & Modeling**
-
-<img src="https://skillicons.dev/icons?i=blender" />
-<img src="https://img.shields.io/badge/-Sketchfab-2D9E6F?style=flat-square&logo=sketchfab&logoColor=white" />
-
-**IDE & Editor**
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
-<img src="https://img.shields.io/badge/-Antigravity-2D9E6F?style=flat-square&logoColor=white" />
-
-**Shell**
-
-<img src="https://skillicons.dev/icons?i=bash,powershell" />
-
-**Tools & Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<table>
+<tr><td><b>Bahasa</b></td><td><img src="https://skillicons.dev/icons?i=js,ts,php,py,kotlin" /></td></tr>
+<tr><td><b>Markup & Data</b></td><td><img src="https://skillicons.dev/icons?i=html,css" /> <img src="https://img.shields.io/badge/-XML-2D9E6F?style=flat-square&logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/-JSON-2D9E6F?style=flat-square&logo=json&logoColor=white" /></td></tr>
+<tr><td><b>Framework</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite" /></td></tr>
+<tr><td><b>Backend & Runtime</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,php" /></td></tr>
+<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" /></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /> <sub>MVVM, Room, Hilt, Retrofit</sub></td></tr>
+<tr><td><b>3D & Modeling</b></td><td><img src="https://skillicons.dev/icons?i=blender" /> <img src="https://img.shields.io/badge/-Sketchfab-2D9E6F?style=flat-square&logo=sketchfab&logoColor=white" /></td></tr>
+<tr><td><b>IDE & Editor</b></td><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio" /> <img src="https://img.shields.io/badge/-Antigravity-2D9E6F?style=flat-square&logoColor=white" /></td></tr>
+<tr><td><b>Shell</b></td><td><img src="https://skillicons.dev/icons?i=bash,powershell" /></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,figma" /></td></tr>
+</table>
 
 <br>
 
