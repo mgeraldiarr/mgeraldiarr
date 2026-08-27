@@ -53,10 +53,10 @@ Saya mahasiswa <b>Universitas Esa Unggul</b> semester 4, dengan minat mendalam d
 
 | Proyek | Deskripsi | Status |
 |---|---|---|
-| 🌐 **[StudyMatch](https://github.com/mgeraldiarr/StudyMatch)** | Platform belajar berbasis web interaktif | ✅ Aktif |
-| 💼 **[Web Portfolio](https://portofolio-nu-sage.vercel.app/)** | Website portofolio pribadi | ✅ Aktif |
-| 📱 **Aplikasi Android Native** | Dibangun menggunakan Kotlin | 🚧 Dikerjakan |
-| ⚙️ **Fullstack Web App** | Dibangun menggunakan React & Node.js | 🚧 Dikerjakan |
+| 🌐 **[HealtyMate](https://github.com/mgeraldiarr/HealtyMate)** | aplikasi web berbasis Flask yang digunakan untuk mengelola fitur kesehatan, data pengguna, dan kebutuhan aplikasi berbasis database | ✅ Aktif |
+| 💼 **[Sistem Verifikasi ID Card Teknisi](https://employee-id-verifier.vercel.app/)** | Verifikasi ID Card Teknisi untuk konsumen | ✅ Aktif |
+| 📱 **Apotek** | Sistem Apotek | 🚧 Dikerjakan |
+| ⚙️ **StudyMatch** |Platform berbasis web untuk menemukan partner belajar | 🚧 Dikerjakan |
 
 </div>
 
