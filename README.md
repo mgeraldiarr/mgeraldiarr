@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3000&pause=900&color=2D9E6F&center=true&vCenter=true&width=650&lines=GEGEH;Fullstack+Developer;Mobile+Developer;Sedang+Mendalami+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3000&pause=900&color=2D9E6F&center=true&vCenter=true&width=650&lines=Muhammad+Geraldi+Arisyi;Fullstack+Developer;Mobile+Developer;Sedang+Mendalami+Software+Engineering" alt="Typing SVG" />
 
 <br>
 
