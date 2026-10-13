@@ -39,8 +39,7 @@ Saya mahasiswa <b>Universitas Esa Unggul</b> semester 4, dengan minat mendalam d
 <tr><td><b>Backend & Runtime</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,php" /></td></tr>
 <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" /></td></tr>
 <tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /></td></tr>
-<tr><td><b>3D & Modeling</b></td><td><img src="https://skillicons.dev/icons?i=blender" /> <img src="https://img.shields.io/badge/-Sketchfab-2D9E6F?style=flat-square&logo=sketchfab&logoColor=white" /></td></tr>
-<tr><td><b>IDE & Editor</b></td><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio" /> <img src="https://img.shields.io/badge/-Antigravity-2D9E6F?style=flat-square&logoColor=white" /></td></tr>
+<tr><td><b>IDE & Editor</b></td><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio" /> 
 <tr><td><b>Shell</b></td><td><img src="https://skillicons.dev/icons?i=bash,powershell" /></td></tr>
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,figma" /></td></tr>
 </table>
